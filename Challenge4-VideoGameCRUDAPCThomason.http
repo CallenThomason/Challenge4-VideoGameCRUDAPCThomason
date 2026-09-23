@@ -1,0 +1,6 @@
+@Challenge4_VideoGameCRUDAPCThomason_HostAddress = http://localhost:5157
+
+GET {{Challenge4_VideoGameCRUDAPCThomason_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
